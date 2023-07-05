@@ -45,6 +45,5 @@ jobs:
           # To customize these inputs:
           # See https://github.com/facebook/pysa-action#inputs
           repo-directory: './'
-          requirements-path: ''
           infer-types: true
           include-default-sapp-filters: true
